@@ -1,0 +1,195 @@
+5.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	8408s.exe	112
+csrss.exe	wininit.exe	36
+csrss.exe	winlogon.exe	2204
+services.exe	5720
+lsass.exe	8764
+svchost.exe	15380
+svchost.exe	11076
+dwm.exe	svchost.exe	10764
+svchost.exe	30208
+svchost.exe	13252
+WUDFHost.exe	svchost.exe	17252
+svchost.exe	9608
+atiesrxx.exe	844
+igfxCUIService.exe	1728
+svchost.exe	5252
+svchost.exe	3372
+svchost.exe	5868
+spoolsv.exe	2456
+svchost.exe	2764
+dasHost.exe	svchost.exe	14600
+HeciServer.exe	1164
+app_updater.exe	1612
+IpOverUsbSvc.exe	1844
+AGSService.exe	5408
+Jhi_service.exe	592
+sqlservr.exe	8944
+TCPSVCS.EXE	796
+snmp.exe	1296
+sqlwriter.exe	1824
+svchost.exe	3552
+SynTPEnhService.exe	1352
+svchost.exe	16348
+MsMpEng.exe	103744
+Memory Compression	169556
+pg_ctl.exe	628
+postgres.exe	conhost.exe	postgres.exe	postgres.exe	postgres.exe	postgres.exe	svchost.exe	7568
+NisSrv.exe	8580
+atieclxx.exe	3944
+SearchIndexer.exe	35176
+GoogleCrashHandler.exe	8
+GoogleCrashHandler64.exe	8
+IAStorDataMgrSvc.exe	15796
+RIconMan.exe	2052
+IntelMeFWService.exe	604
+LMS.exe	2740
+UNS.exe	2448
+sihost.exe	13572
+svchost.exe	17360
+SynTPEnh.exe	1940
+taskhostw.exe	12572
+PresentationFontCache.exe	3608
+RuntimeBroker.exe	26976
+igfxEM.exe	2636
+SynTPHelper.exe	224
+igfxHK.exe	220
+igfxTray.exe	2976
+fontdrvhost.exe	SpeechRuntime.exe	14444
+audiodg.exe	9684
+SettingSyncHost.exe	24
+networx.exe	7992
+MSASCuiL.exe	1772
+BingSvc.exe	852
+MySQLNotifier.exe	10480
+WmiPrvSE.exe	chrome.exe	132368
+chrome.exe	1460
+chrome.exe	192
+chrome.exe	2872
+CCleaner64.exe	9832
+MOM.exe	4876
+YouCamService.exe	3644
+WSHelper.exe	4840
+CCC.exe	4696
+IAStorIcon.exe	4488
+hpqwmiex.exe	3432
+chrome.exe	6556
+chrome.exe	13216
+ApplicationFrameHost.exe	11476
+taskhostw.exe	4368
+explorer.exe	107220
+ShellExperienceHost.exe	24700
+sppsvc.exe	5320
+svchost.exe	11872
+chrome.exe	13412
+chrome.exe	6884
+chrome.exe	7920
+dllhost.exe	4992
+chrome.exe	9780
+chrome.exe	11796
+chrome.exe	6760
+chrome.exe	6508
+chrome.exe	7396
+chrome.exe	13324
+rundll32.exe	128
+chrome.exe	7184
+chrome.exe	2688
+chrome.exe	3272
+chrome.exe	34608
+SkypeHost.exe	740
+chrome.exe	46764
+chrome.exe	12196
+chrome.exe	10104
+chrome.exe	7068
+chrome.exe	7064
+NIHardwareService.exe	1276
+HPSupportSolutionsFrameworkService.exe	12980
+wordpad.exe	4572
+chrome.exe	36624
+cmd.exe	52
+conhost.exe	292
+chrome.exe	22280
+explorer.exe	12740
+chrome.exe	5220
+WmiPrvSE.exe	SpotifyWebHelper.exe	2012
+chrome.exe	7608
+chrome.exe	24836
+chrome.exe	25252
+chrome.exe	11824
+chrome.exe	5908
+chrome.exe	293008
+chrome.exe	13036
+devenv.exe	279540
+PerfWatson2.exe	22532
+ServiceHub.Host.Node.x86.exe	13528
+conhost.exe	4516
+ServiceHub.IdentityHost.exe	10104
+ServiceHub.VSDetouredHost.exe	14008
+ServiceHub.SettingsHost.exe	16048
+ServiceHub.DataWarehouseHost.exe	22656
+ServiceHub.Host.CLR.x86.exe	19004
+chrome.exe	23220
+HelpPane.exe	10060
+wmplayer.exe	35448
+SearchUI.exe	10316
+vcpkgsrv.exe	66528
+MSBuild.exe	4744
+conhost.exe	4720
+MSBuild.exe	5636
+conhost.exe	4704
+mspdbsrv.exe	4476
+mspdbsrv.exe	4296
+vcpkgsrv.exe	12028
+StandardCollector.Service.exe	16996
+mspdbsrv.exe	4964
+mspdbsrv.exe	6000
+svchost.exe	7708
+POSTServer.exe	14548
+conhost.exe	8392
+ScriptedSandbox64.exe	131148
+dllhost.exe	dllhost.exe	POSTClient.exe	22360
+conhost.exe	8512
+SearchProtocolHost.exe	7680
+
+5.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	84085.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	84085.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	84085.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	84085.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	84085.93989
+199.961
+98
+0.00649101
+papa
+abcde
+[System Process]	System	8408

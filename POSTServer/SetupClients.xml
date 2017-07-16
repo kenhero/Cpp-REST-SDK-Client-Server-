@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<client_list>
+  <client>
+    <client-login login="Bera" pass="12345" mail="dillon1977@hotmail.com"/>
+    <alert alert_type="memory" limit="70%"/>
+    <alert alert_type="CPU" limit="80%" />
+    <alert alert_type="process" limit="100%" />
+  </client>
+  <client>
+    <client-login login="papa" pass="abcde" mail="solopermb77@hotmail.com"/>
+    <alert alert_type="memory" limit="90%" />
+    <alert alert_type="CPU" limit="80%" />
+    <alert alert_type="process" limit="50%" />
+  </client>
+</client_list>
