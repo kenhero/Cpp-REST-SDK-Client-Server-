@@ -32,7 +32,7 @@ namespace AsyncMailDll
 		// User and password for ESMTP authentication, if your server doesn't
 		// require User authentication, please remove the following codes.
 		oSmtp->UserName = _T("dillon1977@hotmail.com");
-		oSmtp->Password = _T("p0rc0d10");
+		oSmtp->Password = _T("S3rr4nd4!");
 
 		// If your SMTP server requires SSL connection, please add this line
 		oSmtp->SSL_init();

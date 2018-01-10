@@ -114,14 +114,7 @@ TEST(testServer, POSTtest)
 
 
 
-
-
-
-
-
-
-
-	/*
+	
 	uri_builder uri(L"http://kenhero2.homepc.it:3557/");
 	//uri_builder uri(L"http://localhost:80/");
 	auto addr = uri.to_string();
@@ -141,6 +134,8 @@ TEST(testServer, POSTtest)
 	{
 		wcout << e.what() << endl;
 	}
+	//Simulate a Post Service from Client 
+	system("   \"C:\\Users\\BernardinoBruno\\Documents\\Visual Studio 2013\\ProjectsCopiaprogettodef\\Release\\PostClient.exe \"   ");
 	wcout << "test string" << endl;
 	std::string line;
 	std::wcout << U("Hit Enter to close the listener.");
@@ -148,7 +143,7 @@ TEST(testServer, POSTtest)
 
 	listener.close().wait();
 
-	*/
+	
 	wcout << "test string" << endl;
 
 	

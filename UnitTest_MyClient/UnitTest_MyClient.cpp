@@ -22,6 +22,8 @@ void function1() {
 	exit(1);
 }
 
+
+//Functional GET Client test 
 TEST(testClient, GETtest)
 {
 	using concurrency::streams::file_stream;
