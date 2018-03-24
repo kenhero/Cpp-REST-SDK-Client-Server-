@@ -1,5 +1,13 @@
-# CrossOver-Remote-Task
-CrossOver Remote Client Server application with cpprest sdk Casablanca framework
+Note:
+Before building install cpprestsdk from Microsoft.
+The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+With vcpkg on Windows
+
+PS> vcpkg install cpprestsdk cpprestsdk:x64-windows
+
+Also install EASendMail SMTP Component from https://www.emailarchitect.net/easendmail and copy easendmailobj.tlh on AsincMailDll Folder.
+
+Client Server application with cpprest sdk Casablanca framework
 Create a WMI based sysem monitoring and alert notification [url removed, login to view] using a service that could monitor multiple client machines.
 
 Functional Specifications:
